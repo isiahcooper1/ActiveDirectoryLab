@@ -51,7 +51,7 @@ Deployed a simulated enterprise Active Directory environment using Microsoft Hyp
 <img src="https://github.com/user-attachments/assets/9133ff4c-c3b8-4739-9e23-df4f74397355" height="80%" width="80%" alt="Control Panel Policy"/>
 <br />
 <br />
-7. System Properties on WS01 confirming successful domain join to corp.local, with DC01 serving as the authenticating domain controller.  <br/>
+7. System Properties on WS01 confirming successful domain join to corp.lab, with DC01 serving as the authenticating domain controller.  <br/>
 <img src="https://github.com/user-attachments/assets/9bf162b3-8717-49d8-9201-b781d4738820" height="80%" width="80%" alt="Domain-Joined PC"/>
 <br />
 <br />

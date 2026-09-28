@@ -28,7 +28,7 @@ Deployed a simulated enterprise Active Directory environment using Microsoft Hyp
 <img src="https://github.com/user-attachments/assets/9de55fe6-ae18-451e-ab05-fefb26d657ec" height="80%" width="80%" alt="Network"/>
 <br />
 <br />
-2. Organizational Units are structured by department (IT, HR, Finance) with sub-OUs under IT for Admins and Helpdesk, reflecting a real delegation model. <br/>
+2. Organizational Units are structured by department (IT, HR, Finance) with sub-OU's under IT for Admins and Helpdesk, reflecting a real delegation model. <br/>
 <img src="https://github.com/user-attachments/assets/3094e2e9-7b37-4e75-8853-c0376093e492" height="80%" width="80%" alt="Domain Users"/>
 <br />
 <br />

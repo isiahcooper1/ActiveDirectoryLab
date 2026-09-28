@@ -15,7 +15,7 @@ Deployed a simulated enterprise Active Directory environment using Microsoft Hyp
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2022 Evaluation (Domain Controller — DC01)</b>
+- <b>Windows Server 2022 (Domain Controller — DC01)</b>
 - <b>Windows 11 (Domain Workstation — WS01)</b>
 - <b>Internal Hyper-V Virtual Switch (AD-Lab-Internal, isolated network)</b>
 

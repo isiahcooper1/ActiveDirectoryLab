@@ -33,6 +33,9 @@ Deployed a simulated enterprise Active Directory environment using Microsoft Hyp
 <br />
 <br />
 3. Domain user accounts were created using a PowerShell script that imports user data from a CSV file, automatically provisioning each account into the correct Organizational Unit and security group without manual intervention. <br/>
+<img src="https://github.com/user-attachments/assets/18c73e4e-8221-47e3-8aad-5602f3586d14" height="80%" width="80%" alt="PowerShell Script to Add Users to AD via CSV file"/>
+<br />
+<br />
 <img src="https://github.com/user-attachments/assets/3094e2e9-7b37-4e75-8853-c0376093e492" height="80%" width="80%" alt="Domain Users Added via CSV and PowerShell Script"/>
 <br />
 <br />

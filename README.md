@@ -29,15 +29,15 @@ Deployed a simulated enterprise Active Directory environment using Microsoft Hyp
 <br />
 <br />
 2. Organizational Units are structured by department (IT, HR, Finance) with sub-OU's under IT for Admins and Helpdesk, reflecting a real delegation model. <br/>
-<img src="https://github.com/user-attachments/assets/3e057cd1-ac62-4bda-8081-cf8c20815b11" height="80%" width="80%" alt="Domain Users"/>
+<img src="https://github.com/user-attachments/assets/3e057cd1-ac62-4bda-8081-cf8c20815b11" height="80%" width="80%" alt="OU Structure with Sydney IT Group"/>
 <br />
 <br />
 3. Domain user accounts were created using a PowerShell script that imports user data from a CSV file, automatically provisioning each account into the correct Organizational Unit and security group without manual intervention. <br/>
-<img src="https://github.com/user-attachments/assets/3094e2e9-7b37-4e75-8853-c0376093e492" height="80%" width="80%" alt="OU Structure with Sydney IT Group"/>
+<img src="https://github.com/user-attachments/assets/3094e2e9-7b37-4e75-8853-c0376093e492" height="80%" width="80%" alt="Domain Users Added via CSV and PowerShell Script"/>
 <br />
 <br />
 4. Three GPOs linked at different levels: Password-Policy at the domain root, Workstation-Lockscreen scoped to the Workstations OU, and HR-Restrict-ControlPanel scoped to the HR OU.<br/>
-<img src="https://github.com/user-attachments/assets/e1ea985f-4254-4711-a6e3-1a205f462192" height="80%" width="80%" alt="Shared Drive"/>
+<img src="https://github.com/user-attachments/assets/38089cb7-76ff-480a-9175-b156b99ac115" height="80%" width="80%" alt="Group Policies"/>
 <br />
 <br />
 5. Domain-wide password policy enforcing a 12-character minimum length, complexity requirements, and a 90-day maximum password age.  <br/>
